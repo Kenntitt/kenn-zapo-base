@@ -77,7 +77,7 @@ Fokus utama:
 
 ### Langkah
 
-git clone https://github.com/KennDev/kenn-zapo-base
+git clone https://github.com/Kenntitt/kenn-zapo-base.git
 cd kenn-zapo-base
 npm install
 npm start
